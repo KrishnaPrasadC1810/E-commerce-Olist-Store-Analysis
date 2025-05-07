@@ -1,5 +1,5 @@
 # E-commerce-Olist-Store-Analysis
-# 📊 An end-to-end E-commerce data analysis project using Excel (Power Query, Pivot Tables) and Power BI. It uncovers sales trends, customer insights, delivery performance, and product metrics using real-world Olist data and interactive dashboards.This project presents a comprehensive analysis of Olist's e-commerce dataset using both Excel (Power Query) and Power BI. The goal is to uncover insights into sales performance, customer behavior, product trends, and logistics through interactive dashboards and data modeling.
+📊 An end-to-end E-commerce data analysis project using Excel (Power Query, Pivot Tables) and Power BI. It uncovers sales trends, customer insights, delivery performance, and product metrics using real-world Olist data and interactive dashboards.This project presents a comprehensive analysis of Olist's e-commerce dataset using both Excel (Power Query) and Power BI. The goal is to uncover insights into sales performance, customer behavior, product trends, and logistics through interactive dashboards and data modeling.
 
 
 
